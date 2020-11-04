@@ -1,0 +1,16 @@
+{
+  "name": "dev.jonasjohansson.animation",
+  "version": "0.0.1",
+  "displayName": "Tweebly",
+  "description": "Reusable Animations",
+  "unity": "2019.4",
+  "keywords": [
+    "Animation",
+    "Tween"
+  ],
+  "author": {
+    "name": "Jonas Johansson",
+    "email": "pxljuc@gmail.com",
+    "url": "https://www.jonasjohansson.dev"
+  }
+}
